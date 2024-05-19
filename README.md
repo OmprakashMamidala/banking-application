@@ -1,1 +1,1 @@
-Bankig- application
+Banking- application
